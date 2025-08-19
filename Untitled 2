@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main () {
+              printf of ( "my name is amrita sahu") ;
+              printf of ( "your name is radha sahu") ;
+}
+
+
+
